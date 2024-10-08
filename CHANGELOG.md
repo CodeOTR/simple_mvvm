@@ -1,3 +1,7 @@
+## 1.0.1
+- 🟩 Added advanced usage, testing, and VS code documentation
+- **Date**: 2-07-2024
+
 ## 0.1.3
 - 🟩 Added error message when inherited ViewModel cannot be found above ModelWidget
 - 🟨 Lowered minimum Dart SDK version to 2.19.0
