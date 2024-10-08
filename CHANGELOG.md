@@ -1,3 +1,7 @@
+## 1.0.2
+- 🟪 Update README diagrams
+- **Date**: 10-08-2024
+
 ## 1.0.1
 - 🟩 Added advanced usage, testing, and VS code documentation
 - **Date**: 2-07-2024

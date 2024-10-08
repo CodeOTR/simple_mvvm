@@ -1,6 +1,6 @@
 name: simple_mvvm
 description: A bold and balanced state management library that pairs MVVM structures with the simplicity of InheritedWidget.
-version: 1.0.1
+version: 1.0.2
 homepage: https://codeontherocks.dev/
 repository: https://github.com/CodeOTR/simple_mvvm
 # flutter pub publish --dry-run
@@ -23,5 +23,5 @@ flutter:
 screenshots:
   - description: "Simple MVVM"
     path: assets/cubes_with_background.png
-  - description: "CotR State Management"
-    path: assets/cotr_diagram.png
+  - description: "Simple MVVM Diagram"
+    path: assets/simple_mvvm_diagram.png
